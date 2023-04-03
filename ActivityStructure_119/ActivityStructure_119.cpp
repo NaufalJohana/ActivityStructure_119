@@ -10,7 +10,6 @@ struct mahasiswa
 };
 
 
-
 int main() {
 	mahasiswa mhs1, mhs2;
 
@@ -29,3 +28,4 @@ int main() {
 	cin >> mhs2.umur;
 
 }
+
